@@ -24,7 +24,8 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/bysoyeon"><img src="https://github.com/user-attachments/assets/b1944cce-00e2-4c82-abfa-04238149f50b" width="100px;" alt=""/><br /><sub><b>BE 팀원: aspyn.park(박소연)</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/lky3004me"><img src="https://github.com/user-attachments/assets/b36db424-6628-472d-bdd2-4eb20fabac77" width="100px;" alt=""/><br /><sub><b>BE 팀원: kevin.lee(이승윤)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/lky3004me"><img src="https://github.com/user-attachments/assets/029a528e-5f63-4d36-a0b2-9cb697c95982
+" width="100px;" alt=""/><br /><sub><b>BE 팀원: kevin.lee(이강윤)</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/grulla79"><img src="https://avatars.githubusercontent.com/u/122856840?s=96&v=4" width="100px;" alt=""/><br /><sub><b>BE 팀원: sean.kim(김준호)</b></sub></a><br /></td>
     </tr>
   </tbody>
@@ -34,7 +35,7 @@
 - **jun.park(박원준)**: 팀장, 발표, FE, AWS 배포
 - **lucy.jeon(전은주)**: FE, CSS 
 - **aspyn.park(박소연)**: BE, DB 
-- **kevin.lee(이승윤)**: BE, Python 크롤링(네이버 메뉴 정보 조회), DB 
+- **kevin.lee(이강윤)**: BE, Python 크롤링(네이버 메뉴 정보 조회), DB 
 - **sean.kim(김준호)**: BE, AWS 배포 
 
 ## 프로젝트 설명
