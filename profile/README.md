@@ -19,7 +19,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Recyclingbottle"><img src="https://avatars.githubusercontent.com/u/101244968?s=96&v=4" width="100px;" alt=""/><br /><sub><b>FE 팀장: jun.park(박원준)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Recyclingbottle"><img src="https://github.com/user-attachments/assets/cb1fed96-e27b-40c5-8b7e-edd9eb8175a1" width="100px;" alt=""/><br /><sub><b>FE 팀장: jun.park(박원준)</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/lucy726j"><img src="https://avatars.githubusercontent.com/u/167487987?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원: lucy.jeon(전은주)</b></sub></a><br /></td>
     </tr>
     <tr>
