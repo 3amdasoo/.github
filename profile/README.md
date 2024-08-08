@@ -23,7 +23,7 @@
       <td align="center"><a href="https://github.com/lucy726j"><img src="https://avatars.githubusercontent.com/u/167487987?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원: lucy.jeon(전은주)</b></sub></a><br /></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/bysoyeon"><img src="https://avatars.githubusercontent.com/u/167726398?s=96&v=4" width="100px;" alt=""/><br /><sub><b>BE 팀원: aspyn.park(박소연)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/bysoyeon"><img src="!https://github.com/user-attachments/assets/b1944cce-00e2-4c82-abfa-04238149f50b)" width="100px;" alt=""/><br /><sub><b>BE 팀원: aspyn.park(박소연)</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/lky3004me"><img src="https://github.com/user-attachments/assets/b36db424-6628-472d-bdd2-4eb20fabac77" width="100px;" alt=""/><br /><sub><b>BE 팀원: kevin.lee(이승윤)</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/grulla79"><img src="https://avatars.githubusercontent.com/u/122856840?s=96&v=4" width="100px;" alt=""/><br /><sub><b>BE 팀원: sean.kim(김준호)</b></sub></a><br /></td>
     </tr>
