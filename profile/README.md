@@ -19,13 +19,13 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Recyclingbottle"><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장: jun.park(박원준)</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/lucy726j"><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원: lucy.jeon(전은주)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Recyclingbottle"><img src="https://avatars.githubusercontent.com/u/101244968?s=96&v=4" width="100px;" alt=""/><br /><sub><b>FE 팀장: jun.park(박원준)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/lucy726j"><img src="https://avatars.githubusercontent.com/u/167487987?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원: lucy.jeon(전은주)</b></sub></a><br /></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/bysoyeon"><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원: aspyn.park(박소연)</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/lky3004me"><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원: kevin.lee(이승윤)</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/grulla79"><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원: sean.kim(김준호)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/bysoyeon"><img src="https://avatars.githubusercontent.com/u/167726398?s=96&v=4" width="100px;" alt=""/><br /><sub><b>BE 팀원: aspyn.park(박소연)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/lky3004me"><img src="[https://avatars.githubusercontent.com/u/63594534?s=96&v=4](https://github.com/lky3004me)" width="100px;" alt=""/><br /><sub><b>BE 팀원: kevin.lee(이승윤)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/grulla79"><img src="https://avatars.githubusercontent.com/u/122856840?s=96&v=4" width="100px;" alt=""/><br /><sub><b>BE 팀원: sean.kim(김준호)</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
